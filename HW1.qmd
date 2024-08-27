@@ -1,0 +1,39 @@
+---
+title: "About Data Science"
+format: html
+editor: visual
+knitr:
+  opts_chunk: 
+    collapse: true
+---
+
+## What do you think being a data scientist is about?
+
+Being a data scientist is about combining statistical methods with other forms of data analysis to interpret and analyze data.
+
+## What differences/similarities do you see between data scientists and statisticians?
+There are several differences between data scientists and statisticians. 
+1. Data scientists may use things other than the scientific method to analyze and interpret data. 
+2. Data scientists focus more on practical application of a combination of different disciplines. 
+3. Statisticians focus on using established techniques such as hypothesis testing, typically in research.
+
+There are also, however, several key similarities. 
+1. Both fields require a solid foundation of statistical knowledge
+2. Both work involve working with and finding ways to interpret large amounts of data
+
+## How do you view yourself in relation to these two areas?
+I view myself to be more on the data science side. Most of my background is in programming and industry experience. Statistics is a part of data science that I do not have as much fluency in. One of my goals for the certificate program is to better understand the statistical methods of data analysis so I have a more well-rounded understanding of the field as a whole.
+
+```{r}
+#| echo: False
+# The object "y" given from Homework 1, defined as a density function
+y <- density(iris$Petal.Width)
+
+# Outputs the attributes of the object "y" (class, type, and structure)
+class(y)
+typeof(y)
+str(y)
+
+# Outputs a plot of the object "y" 
+plot(y)
+```
