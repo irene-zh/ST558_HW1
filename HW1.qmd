@@ -12,14 +12,16 @@ Being a data scientist is about combining statistical methods with other forms o
 
 ## What differences/similarities do you see between data scientists and statisticians?
 
-There are several differences between data scientists and statisticians.
-* Data scientists may use things other than the scientific method to analyze and interpret data. 
+There are several differences between data scientists and statisticians. 
+-   Data scientists may use things other than the scientific method to analyze and interpret data.
 
-* Data scientists focus more on practical application of a combination of different disciplines. 
+-   Data scientists focus more on practical application of a combination of different disciplines.
 
-* Statisticians focus on using established techniques such as hypothesis testing, typically in research.
+-   Statisticians focus on using established techniques such as hypothesis testing, typically in research.
 
-There are also, however, several key similarities. \* Both fields require a solid foundation of statistical knowledge \* Both work involve working with and finding ways to interpret large amounts of data
+There are also, however, several key similarities. 
+-   Both fields require a solid foundation of statistical knowledge 
+-   Both work involve working with and finding ways to interpret large amounts of data
 
 ## How do you view yourself in relation to these two areas?
 
